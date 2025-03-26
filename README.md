@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif" width="900px" height="600px">
+  <img src="https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif" width="1000px" height="500px">
 </div>
 <!--
 **Piyor0t89/Piyor0t89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
